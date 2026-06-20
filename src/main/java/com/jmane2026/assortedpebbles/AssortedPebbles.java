@@ -51,7 +51,7 @@ public class AssortedPebbles {
     }
 
     private void registerPackets(final RegisterPayloadHandlersEvent event) {
-        final PayloadRegistrar registrar = event.registrar("1.0.1");
+        final PayloadRegistrar registrar = event.registrar("1.0.2");
 
         registrar.playToServer(
                 PebbleGatherPacket.TYPE,
