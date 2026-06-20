@@ -1,0 +1,14 @@
+{
+  "item.assortedpebbles.stone_pebble": "Stone Pebble",
+  "item.assortedpebbles.andesite_pebble": "Andesite Pebble",
+  "item.assortedpebbles.diorite_pebble": "Diorite Pebble",
+  "item.assortedpebbles.granite_pebble": "Granite Pebble",
+  "item.assortedpebbles.deepslate_pebble": "Deepslate Pebble",
+  "item.assortedpebbles.flint_shard": "Flint Shard",
+
+  "itemGroup.assortedpebbles.tab": "Assorted Pebbles",
+
+  "assortedpebbles.configuration.Assorted Pebbles Config": "Assorted Pebbles Config",
+  "assortedpebbles.configuration.tickCooldown": "Tick Cooldown",
+  "assortedpebbles.configuration.lootPools": "Loot Pools"
+}
